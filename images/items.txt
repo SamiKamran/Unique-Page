@@ -1,0 +1,14 @@
+hero : c9dcd9
+
+home about : f4e0e0
+
+your First Landing Page : ffffff
+
+
+search bar : ffffff
+
+join btn : 04665e
+
+
+font : Roboto
+Potato sans 
